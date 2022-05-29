@@ -40,7 +40,8 @@
                     <div>
                         <a href="index.html" class="logo">
                             <span class="logo-light">
-                                    <i class="mdi mdi-camera-control"></i> MICRO 
+                                  <img src="upload/logo.svg" class="rounded-circle" width="40">   MultiServices
+                                  
                             </span>
                         </a>
                     </div>
@@ -132,7 +133,7 @@
                     <div class="col-lg-6 col-xl-7">
                         <div class="image-container">
                             <div class="img-wrapper">
-                                <!-- <img class="img-fluid" src="upload/home.webp" alt="alternative"> -->
+                                <img class="img-fluid" src="upload/index.png" alt="alternative"> 
                             </div> <!-- end of img-wrapper -->
                         </div> <!-- end of image-container -->
                     </div> <!-- end of col -->

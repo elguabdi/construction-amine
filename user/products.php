@@ -91,7 +91,7 @@ $data= $req->fetch();
                                     </a>
                                     <div class="dropdown-menu dropdown-menu-right profile-dropdown ">
                                       
-                                        <a class="dropdown-item" href="#"><i class="mdi mdi-account-circle"></i> Profile</a>
+                                        <a class="dropdown-item" href="profile.php"><i class="mdi mdi-account-circle"></i> Profile</a>
                                         <a class="dropdown-item text-danger" href="../admin/logout.php"><i class="mdi mdi-power text-danger"></i> Logout</a>
                                     </div>
                                 </div>
